@@ -1,0 +1,14 @@
+{
+  "linear_svm": {
+    "clf__C": 100.0
+  },
+  "rbf_svm": {
+    "clf__C": 5000.0,
+    "clf__gamma": 0.0001
+  },
+  "grad_boost": {
+    "clf__learning_rate": 0.01,
+    "clf__max_depth": null,
+    "clf__max_iter": 600
+  }
+}
